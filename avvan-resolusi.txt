@@ -1,2 +1,4 @@
 AVVAN RESOLUSI
 - Konsisten untuk belajar codding
+- membuat platform pengelolaan video
+- membuat website statis
