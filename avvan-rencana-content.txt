@@ -2,6 +2,7 @@ RENCANA CONTENT AVVAN
 - Javascript
  * ES6
  * Framework Javascript
+- Struktur Data Dasar
 - PHP Framework
 - Interview
 - Vlog
